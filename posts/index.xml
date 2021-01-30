@@ -6,19 +6,38 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-CN</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 30 Jan 2021 22:45:00 +0800</lastBuildDate>
 		<atom:link href="https://happymrli.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Hello Hugo</title>
 			<link>https://happymrli.github.io/posts/new/</link>
-			<pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+			<pubDate>Sat, 30 Jan 2021 22:45:00 +0800</pubDate>
 			
 			<guid>https://happymrli.github.io/posts/new/</guid>
 			<description>hello hugo
 HELLO HUGO</description>
 			<content type="html"><![CDATA[<p>hello hugo</p>
 <p>HELLO HUGO</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Post With Featured Image</title>
+			<link>https://happymrli.github.io/posts/post-with-featured-image/</link>
+			<pubDate>Sat, 30 Jan 2021 22:45:00 +0800</pubDate>
+			
+			<guid>https://happymrli.github.io/posts/post-with-featured-image/</guid>
+			<description>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
+For example:
+---images:- https://picsum.photos/1024/768/?random---This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
+			<content type="html"><![CDATA[<p>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.</p>
+<p>For example:</p>
+<div class="highlight"><pre class="chroma"><code class="language-yaml" data-lang="yaml"><span class="nn">---</span><span class="w">
+</span><span class="w"></span><span class="nt">images</span><span class="p">:</span><span class="w">
+</span><span class="w">  </span>- <span class="l">https://picsum.photos/1024/768/?random</span><span class="w">
+</span><span class="w"></span><span class="nn">---</span><span class="w">
+</span></code></pre></div><p>This is an array, you can set multiple urls, only the first url will be used. These images is also used in <a href="https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started.html">Twitter Cards</a> and the <a href="http://ogp.me/">Open Graph</a> metadata.</p>
 ]]></content>
 		</item>
 		
@@ -75,25 +94,6 @@ This theme has 3 CSS classes made for figure elements:
 
 <p>Pellentesque eu consequat nunc. Vivamus eu eros ut nulla dapibus molestie in id tortor. Cras viverra ligula erat, tincidunt hendrerit diam blandit nec. Cras id urna vel dolor dictum mattis. Vestibulum congue erat ac eros molestie accumsan. Maecenas lorem nibh, maximus vel justo eget, facilisis egestas lectus. Mauris eu est ut odio blandit consequat id feugiat eros. Fusce id suscipit mi, et lacinia lectus. Mauris a arcu placerat dolor iaculis feugiat nec non mi. Ut porttitor elit tortor, eget tempus velit mollis eu. Aliquam sem nulla, dictum cursus mauris ac, semper ullamcorper leo.</p>
 <p>Donec nec tincidunt est. Sed id metus in erat fringilla mattis at id turpis. Aliquam tempor vehicula faucibus. Phasellus consequat aliquam odio. Morbi a ex vitae sapien porta auctor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sit amet nulla arcu. Praesent ut tortor purus. Praesent id eros diam. Pellentesque vitae dolor at nibh ultrices accumsan eu id urna. Aliquam finibus interdum orci in varius. Pellentesque a enim condimentum, condimentum felis id, vehicula augue. Vivamus cursus commodo eros nec lacinia.</p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Post With Featured Image</title>
-			<link>https://happymrli.github.io/posts/post-with-featured-image/</link>
-			<pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
-			
-			<guid>https://happymrli.github.io/posts/post-with-featured-image/</guid>
-			<description>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
-For example:
----images:- https://picsum.photos/1024/768/?random---This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
-			<content type="html"><![CDATA[<p>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.</p>
-<p>For example:</p>
-<div class="highlight"><pre class="chroma"><code class="language-yaml" data-lang="yaml"><span class="nn">---</span><span class="w">
-</span><span class="w"></span><span class="nt">images</span><span class="p">:</span><span class="w">
-</span><span class="w">  </span>- <span class="l">https://picsum.photos/1024/768/?random</span><span class="w">
-</span><span class="w"></span><span class="nn">---</span><span class="w">
-</span></code></pre></div><p>This is an array, you can set multiple urls, only the first url will be used. These images is also used in <a href="https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started.html">Twitter Cards</a> and the <a href="http://ogp.me/">Open Graph</a> metadata.</p>
 ]]></content>
 		</item>
 		

@@ -7,15 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://happymrli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Jan 2021 22:45:00 +0800</lastBuildDate><atom:link href="https://happymrli.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Hugo</title>
       <link>https://happymrli.github.io/posts/new/</link>
-      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Jan 2021 22:45:00 +0800</pubDate>
       
       <guid>https://happymrli.github.io/posts/new/</guid>
       <description>hello hugo
 HELLO HUGO</description>
+    </item>
+    
+    <item>
+      <title>Post With Featured Image</title>
+      <link>https://happymrli.github.io/posts/post-with-featured-image/</link>
+      <pubDate>Sat, 30 Jan 2021 22:45:00 +0800</pubDate>
+      
+      <guid>https://happymrli.github.io/posts/post-with-featured-image/</guid>
+      <description>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
+For example:
+---images:- https://picsum.photos/1024/768/?random---This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
     </item>
     
     <item>
@@ -24,7 +35,7 @@ HELLO HUGO</description>
       <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://happymrli.github.io/about-hugo/</guid>
-      <description></description>
+      <description>TYUT 2020 Electronic Information Engineering 785</description>
     </item>
     
     <item>
@@ -37,17 +48,6 @@ HELLO HUGO</description>
 https://gohugo.io/content-management/shortcodes/#figure
 This theme has 3 CSS classes made for figure elements:
  big: images will break the width limit of main content area. left: images will float to the left. right: images will float to the right.  If a figure has no class set, the image will behave just like a normal markdown image: !</description>
-    </item>
-    
-    <item>
-      <title>Post With Featured Image</title>
-      <link>https://happymrli.github.io/posts/post-with-featured-image/</link>
-      <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
-      
-      <guid>https://happymrli.github.io/posts/post-with-featured-image/</guid>
-      <description>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
-For example:
----images:- https://picsum.photos/1024/768/?random---This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
     </item>
     
     <item>
