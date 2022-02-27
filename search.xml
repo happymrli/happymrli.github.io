@@ -22,11 +22,43 @@
   <entry>
     <title>Test</title>
     <url>/2022/02/26/Test/</url>
-    <content><![CDATA[<p><strong>图片测试</strong></p>
-<p><img src="/2022/02/26/Test/2WW%5DB7$@@5W@2NGI%602M5$EQ.png"></p>
+    <content><![CDATA[<p><strong>测试</strong></p>
+<span id="more"></span>
+
+<h2 id="图片："><a href="#图片：" class="headerlink" title="图片："></a><strong>图片：</strong></h2><p><img src="/2022/02/26/Test/2WW%5DB7$@@5W@2NGI%602M5$EQ.png"></p>
+<p>来源：截图–&gt;另存为</p>
 <p><img src="/2022/02/26/Test/QQ%E5%9B%BE%E7%89%8720220226230703.jpg"></p>
 <p><img src="/2022/02/26/Test/QQ%E5%9B%BE%E7%89%8720220226230906.jpg"></p>
-<p>结论：只要是正常另存为到同名文件夹中即可，不可偷懒复制粘贴。</p>
+<p>来源：转发的图片–&gt;另存为</p>
+<p><strong>结论：只要是正常另存为到同名文件夹中即可，不可偷懒复制粘贴。</strong></p>
+<h2 id="代码块："><a href="#代码块：" class="headerlink" title="代码块："></a>代码块：</h2><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">ifndef</span> __DELAY_H__</span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> __DELAY_H__</span></span><br><span class="line"><span class="type">void</span> <span class="title function_">Delay</span><span class="params">(<span class="type">unsigned</span> <span class="type">int</span> xms)</span>;</span><br><span class="line"><span class="meta">#<span class="keyword">endif</span></span></span><br></pre></td></tr></table></figure>
+
+<h2 id="表情："><a href="#表情：" class="headerlink" title="表情："></a>表情：</h2><p>❤🚗🍕🎈👩😀</p>
+<h2 id="特殊符号："><a href="#特殊符号：" class="headerlink" title="特殊符号："></a>特殊符号：</h2><p>ヾ(≧▽≦*)o</p>
+<p>℃¥£①④⑦№™@【〗〈≈＝≌←↓↖ㄅㄈㄋ</p>
+<h2 id="引用："><a href="#引用：" class="headerlink" title="引用："></a>引用：</h2><blockquote>
+<p>此处为引用</p>
+</blockquote>
+<h2 id="有序列表："><a href="#有序列表：" class="headerlink" title="有序列表："></a>有序列表：</h2><ol>
+<li>一</li>
+<li>二</li>
+<li>三</li>
+</ol>
+<h2 id="任务列表："><a href="#任务列表：" class="headerlink" title="任务列表："></a>任务列表：</h2><ul>
+<li><input checked disabled type="checkbox"> </li>
+</ul>
+<h2 id="分割线："><a href="#分割线：" class="headerlink" title="分割线："></a>分割线：</h2><hr>
+<h2 id="文本格式："><a href="#文本格式：" class="headerlink" title="文本格式："></a>文本格式：</h2><p><em>本项目亮点：前行或倒退时，前方车灯频闪；</em>    斜体</p>
+<p><u>遇到障碍物左转或右转时，对应左方或右方发光二极管频闪。</u>   下划线</p>
+<p><del>本项目改进点：因为main函数中Go函数的传参问题，导致传感器识别不灵敏，</del>   删除线</p>
+<p>若不传参，即Go只执行前进操作，那样的话感应就会很灵敏。读者可以尝试修改优化。</p>
+<p>这是^上标^  </p>
+<p>这是<del>下标</del></p>
+<!--注释-->
+
+<h2 id="超链接："><a href="#超链接：" class="headerlink" title="超链接："></a>超链接：</h2><p><a href="https://www.bilibili.com/video/BV1WU4y1g72q?share_source=copy_web">Bilibili</a></p>
+<h2 id="链接引用："><a href="#链接引用：" class="headerlink" title="链接引用："></a>链接引用：</h2><p>脚注<a href="%E8%84%9A%E6%B3%A8%E8%A7%A3%E9%87%8A">^ 1 </a></p>
+<h2 id="公式："><a href="#公式：" class="headerlink" title="公式："></a>公式：</h2><p>$$\delta \frown \Rsh \sin {x}$$</p>
 ]]></content>
       <categories>
         <category>生活</category>
