@@ -42,24 +42,10 @@
 <h2 id="公式："><a href="#公式：" class="headerlink" title="公式："></a>公式：</h2><p>$$\delta \frown \Rsh \sin {x}$$</p>
 ]]></content>
       <categories>
-        <category>生活</category>
+        <category>学习</category>
       </categories>
       <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>云端图库</title>
-    <url>/2022/03/06/%E4%BA%91%E7%AB%AF%E5%9B%BE%E5%BA%93/</url>
-    <content><![CDATA[<p><img src="/2022/03/06/%E4%BA%91%E7%AB%AF%E5%9B%BE%E5%BA%93/%E5%9B%BE%E7%89%872.png"></p>
-<p><img src="/2022/03/06/%E4%BA%91%E7%AB%AF%E5%9B%BE%E5%BA%93/%E5%9B%BE%E7%89%873.png"></p>
-<span id="more"></span>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
+        <tag>测试开发</tag>
       </tags>
   </entry>
   <entry>
@@ -75,10 +61,24 @@
 <p><strong>不求打赏版</strong><br> 不需要打赏哦，喜欢我的文章就关注、点喜欢，欢迎分享到朋友圈，谢谢<br> 点喜欢就是最好的打赏！！<br> 打赏是支持，也可以移步公众号。<br> 分享是对我最大的赞赏 随缘随心<br> 你的点赞就是最大的帮助了。<br> 你若喜欢，不妨关注我的微信公众号“尹沽城”，真诚脸<br> 亲爱的读者朋友，如果觉得我写得不错，请点一个“喜欢”~<br> 求点赞求点关注心意到了就好谢谢你们~<br> 喜欢就关注我吧。(≧≦)/</p>
 ]]></content>
       <categories>
-        <category>生活</category>
+        <category>学习</category>
       </categories>
       <tags>
-        <tag>测试</tag>
+        <tag>测试开发</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>云端图库</title>
+    <url>/2022/03/06/%E4%BA%91%E7%AB%AF%E5%9B%BE%E5%BA%93/</url>
+    <content><![CDATA[<p><img src="/2022/03/06/%E4%BA%91%E7%AB%AF%E5%9B%BE%E5%BA%93/%E5%9B%BE%E7%89%872.png"></p>
+<p><img src="/2022/03/06/%E4%BA%91%E7%AB%AF%E5%9B%BE%E5%BA%93/%E5%9B%BE%E7%89%873.png"></p>
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>测试开发</tag>
       </tags>
   </entry>
   <entry>
@@ -99,7 +99,31 @@
         <category>生活</category>
       </categories>
       <tags>
-        <tag>测试</tag>
+        <tag>碎碎念</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人生的关键词</title>
+    <url>/2022/03/09/%E4%BA%BA%E7%94%9F%E7%9A%84%E5%85%B3%E9%94%AE%E8%AF%8D/</url>
+    <content><![CDATA[<table><tr><td bgcolor="PowderBlue">人生的不同阶段，会身处不同的境遇，而总有一些关键词能够帮你度过那段岁月。</td></tr></table>
+
+
+
+<p><strong>下面的这些关键词，分别陪伴我度过了人生的一段又一段，对别人而言，他们可能是毫无逻辑的词组，但对自己来说，确是极其有<code>力量</code>和<code>意义</code>的。</strong></p>
+<blockquote>
+<p><strong>自信!</strong></p>
+<p><strong>去享受生活吧!</strong><br><strong>向前看!</strong></p>
+<p><strong>√.奔赴·笨</strong><br><strong>吃 喝 睡眠 锻炼 休憩.BODY·FIRST</strong></p>
+<p><strong>遇人.终老.</strong><br><strong>有血有肉.</strong></p>
+<p><strong>Enrich Enjoy 小日子</strong><br><strong>二十  !🐺  顶峰相见</strong>  </p>
+<p><strong>尽头 Better! 奔赴</strong></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>人生</category>
+      </categories>
+      <tags>
+        <tag>人生感悟</tag>
       </tags>
   </entry>
   <entry>
@@ -142,9 +166,46 @@
       </tags>
   </entry>
   <entry>
-    <title>造轮子—MeArm</title>
+    <title>🚗造轮子—Flash优化</title>
+    <url>/2022/03/09/%E9%80%A0%E8%BD%AE%E5%AD%90%E2%80%94Flash%E4%BC%98%E5%8C%96%E4%BB%A3%E7%A0%81/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>Arduino</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>🚗造轮子—智能小夜灯</title>
+    <url>/2022/03/09/%E9%80%A0%E8%BD%AE%E5%AD%90%E2%80%94%E6%99%BA%E8%83%BD%E5%B0%8F%E5%A4%9C%E7%81%AF/</url>
+    <content><![CDATA[<p>今天练习的程序是实现<code>智能小夜灯</code>的控制，首先，通过<code>太极创客</code>的视频来看看最终的实现结果：</p>
+<iframe src="//player.bilibili.com/player.html?aid=52752625&bvid=BV1b441177VF&cid=92305535&page=9" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<blockquote>
+<p>本次程序例程来自<a href="http://www.taichi-maker.com/">太极创客官网</a>，此平台的Arduino教程深入浅出，对于想学习Arduino的同学，首推太极创客团队。</p>
+</blockquote>
+<span id="more"></span>
+
+<p>以下便是今天练习的造轮子程序：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">/*</span></span><br><span class="line"><span class="comment"> *基本功能介绍：</span></span><br><span class="line"><span class="comment"> * 用户可通过传感器控制RGB-LED点亮和关闭</span></span><br><span class="line"><span class="comment"> * 小夜灯配备人体红外感应传感器以及光敏电阻实现照明自动化</span></span><br><span class="line"><span class="comment"> * 点亮和熄灭时产生渐明渐暗效果</span></span><br><span class="line"><span class="comment"> * 点亮时色彩不断变化</span></span><br><span class="line"><span class="comment"> *</span></span><br><span class="line"><span class="comment"> * 基本电路连接说明：</span></span><br><span class="line"><span class="comment"> * 共阴极RGB-LED引脚R 连接 Arduino控制器引脚6</span></span><br><span class="line"><span class="comment"> * 共阴极RGB-LED引脚G 连接 Arduino控制器引脚5</span></span><br><span class="line"><span class="comment"> * 共阴极RGB-LED引脚B 连接 Arduino控制器引脚3</span></span><br><span class="line"><span class="comment"> * 红外人体感应模块信号输出引脚 连接 Arduino控制器引脚8</span></span><br><span class="line"><span class="comment"> * 光敏电阻分压电路信号输出引脚 连接 Arduino控制器引脚A0</span></span><br><span class="line"><span class="comment">*/</span></span><br><span class="line"></span><br><span class="line"><span class="comment">//宏定义引脚</span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> rLedPin 6</span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> gLedPin 5</span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> bLedPin 3</span></span><br><span class="line"></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> irSensorPin 8</span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> lightSensorPin A0</span></span><br><span class="line"></span><br><span class="line"><span class="comment">//led亮度</span></span><br><span class="line"><span class="type">int</span> ledR=<span class="number">0</span>;</span><br><span class="line"><span class="type">int</span> ledG=<span class="number">0</span>;</span><br><span class="line"><span class="type">int</span> ledB=<span class="number">0</span>;</span><br><span class="line"></span><br><span class="line"><span class="type">bool</span> irReading; <span class="comment">//红外人体感应模块输出</span></span><br><span class="line"><span class="type">int</span> lightRedaing; <span class="comment">//光敏电阻分压电路信号输出</span></span><br><span class="line"><span class="type">bool</span> onOffState; <span class="comment">//小夜灯开关状态</span></span><br><span class="line"></span><br><span class="line"><span class="type">unsigned</span> <span class="type">long</span> previousIrMillis; <span class="comment">//上一次检查红外传感器的时间</span></span><br><span class="line"><span class="type">unsigned</span> <span class="type">long</span> previousLightMillis; <span class="comment">//上一次检查光敏传感器的时间</span></span><br><span class="line"><span class="type">int</span> irCheckInterval=<span class="number">500</span>; <span class="comment">//红外传感器检查时间间隔</span></span><br><span class="line"><span class="type">int</span> irCheckInterval=<span class="number">1000</span>; <span class="comment">//光敏传感器检查时间间隔</span></span><br><span class="line"></span><br><span class="line"><span class="type">int</span> colorIndex; <span class="comment">//颜色序列号</span></span><br><span class="line"><span class="type">int</span> colorChangeDelay=<span class="number">1</span>; <span class="comment">//颜色改变速度控制变量</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">setup</span><span class="params">()</span></span>&#123;</span><br><span class="line">    <span class="comment">//设置引脚工作模式</span></span><br><span class="line">    <span class="built_in">pinMode</span>(rLedPin,OUTPUT);</span><br><span class="line">    <span class="built_in">pinMode</span>(gLedPin,OUTPUT);</span><br><span class="line">    <span class="built_in">pinMode</span>(bLedPin,OUTPUT);</span><br><span class="line">    <span class="built_in">pinMode</span>(irSensorPin,INPUT);</span><br><span class="line">    </span><br><span class="line">    Serial.<span class="built_in">begin</span>(<span class="number">9600</span>);</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;Welcome!&quot;</span>);</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;===System Start Sensor Cheak===&quot;</span>);</span><br><span class="line">    </span><br><span class="line">    <span class="comment">//读取红外人体感应模块</span></span><br><span class="line">    irReading=<span class="built_in">digitalRead</span>(irSensorPin);</span><br><span class="line">    lightRedaing=<span class="built_in">anologRead</span>(lightSensorPin);</span><br><span class="line">    </span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;===Checking Sensor===&quot;</span>);</span><br><span class="line">    Serial.<span class="built_in">print</span>(<span class="string">&quot;irReading&quot;</span>);Serial.<span class="built_in">println</span>(irReading);</span><br><span class="line">    Serial.<span class="built_in">print</span>(<span class="string">&quot;lightRedaing&quot;</span>);Serial.<span class="built_in">println</span>(lightRedaing);</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;======================&quot;</span>);</span><br><span class="line">    </span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//六个函数  </span></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">loop</span><span class="params">()</span></span>&#123;</span><br><span class="line">	<span class="type">unsigned</span> <span class="type">long</span> currentMillis=<span class="built_in">millis</span>();<span class="comment">//millis()函数可以用来获取Arduino开机后的运行时间</span></span><br><span class="line">    </span><br><span class="line">    <span class="built_in">irCheak</span>(currentMillis);<span class="comment">//检查红外传感器时间</span></span><br><span class="line">    <span class="built_in">lightCheak</span>(currentMillis);<span class="comment">//检查光敏电阻时间</span></span><br><span class="line">    </span><br><span class="line">    <span class="keyword">if</span>(irReading==HIGH)&#123;</span><br><span class="line">        irCheckInterval=<span class="number">30000</span>;</span><br><span class="line">    &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">        irCheckInterval=<span class="number">500</span>;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    <span class="keyword">if</span>(irReading==HIGH&amp;&amp;lightRedaing&gt;=<span class="number">880</span>)&#123;</span><br><span class="line">        <span class="keyword">if</span>(onOffState==<span class="number">0</span>)</span><br><span class="line">            <span class="built_in">fadeOn</span>();</span><br><span class="line">        onOffState=<span class="number">1</span>;</span><br><span class="line">        </span><br><span class="line">        <span class="keyword">if</span>(colorIndex&lt;=<span class="number">1535</span>)&#123;</span><br><span class="line">            colorIndex++；</span><br><span class="line">        &#125;<span class="keyword">else</span> <span class="keyword">if</span>(colorIndex&gt;<span class="number">1535</span>)&#123;</span><br><span class="line">            colorIndex=<span class="number">0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="built_in">ledShowColor</span>(colorIndex)</span><br><span class="line">    &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">        <span class="keyword">if</span>(onOffState==<span class="number">1</span>)</span><br><span class="line">            <span class="built_in">fadeOff</span>();</span><br><span class="line">        onOffState=<span class="number">0</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">irCheak</span><span class="params">(<span class="type">unsigned</span> <span class="type">long</span> currentMillis)</span></span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(currentMillis-previousIrMillis)&gt;=irCheakInterval)&#123;</span><br><span class="line">        irReading=<span class="built_in">digitalRead</span>(irSensorPin);</span><br><span class="line"></span><br><span class="line">    	Serial.<span class="built_in">println</span>(<span class="string">&quot;===Checking IR Sensor===&quot;</span>);</span><br><span class="line">    	Serial.<span class="built_in">print</span>(<span class="string">&quot;irReading=&quot;</span>);Serial.<span class="built_in">println</span>(irReading);</span><br><span class="line">    	Serial.<span class="built_in">print</span>(<span class="string">&quot;currentMillis&quot;</span>);Serial.<span class="built_in">println</span>(currentMillis);</span><br><span class="line">       	Serial.<span class="built_in">print</span>(<span class="string">&quot;previousIrMillis&quot;</span>);Serial.<span class="built_in">println</span>(previousIrMillis);</span><br><span class="line">        Serial.<span class="built_in">println</span>(<span class="string">&quot;=========================&quot;</span>);</span><br><span class="line">        previousIrMillis=currentMillis;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">lightCheak</span><span class="params">(<span class="type">unsigned</span> <span class="type">long</span> currentMillis)</span></span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(currentMillis-previousLightMillis)&gt;=lightCheakInterval)&#123;</span><br><span class="line">		lightRedaing=<span class="built_in">anologRead</span>(lightSensorPin);</span><br><span class="line">        </span><br><span class="line">    	Serial.<span class="built_in">println</span>(<span class="string">&quot;===Checking Light Sensor===&quot;</span>);</span><br><span class="line">    	Serial.<span class="built_in">print</span>(<span class="string">&quot;lightReading=&quot;</span>);Serial.<span class="built_in">println</span>(lightRedaing);</span><br><span class="line">    	Serial.<span class="built_in">print</span>(<span class="string">&quot;currentMillis&quot;</span>);Serial.<span class="built_in">println</span>(currentMillis);</span><br><span class="line">        Serial.<span class="built_in">print</span>(<span class="string">&quot;previousLightMillis&quot;</span>);Serial.<span class="built_in">println</span>(previousLightMillis);</span><br><span class="line">        Serial.<span class="built_in">println</span>(<span class="string">&quot;===========================&quot;</span>);</span><br><span class="line">        </span><br><span class="line">        previousLightMillis=currentMillis;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">ledShowColor</span><span class="params">(<span class="type">int</span> colorIndex)</span></span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(colorIndex&gt;=<span class="number">0</span>&amp;&amp;colorIndex&lt;=<span class="number">255</span>)&#123;</span><br><span class="line">        ledR=<span class="number">255</span>-colorIndex;</span><br><span class="line">        <span class="built_in">anologWrite</span>(rLedPin,ledR);</span><br><span class="line">    &#125;<span class="keyword">else</span> <span class="keyword">if</span>(colorIndex&gt;=<span class="number">256</span>&amp;&amp;colorIndex&lt;=<span class="number">511</span>)&#123;</span><br><span class="line">        ledR=colorIndex<span class="number">-256</span>;</span><br><span class="line">        <span class="built_in">anologWrite</span>(rLedPin,ledR);</span><br><span class="line">    &#125;<span class="keyword">else</span> <span class="keyword">if</span>(colorIndex&gt;=<span class="number">512</span>&amp;&amp;colorIndex&lt;=<span class="number">767</span>)&#123;</span><br><span class="line">        ledG=<span class="number">767</span>-colorIndex;</span><br><span class="line">        <span class="built_in">anologWrite</span>(gLedPin,ledG);</span><br><span class="line">    &#125;<span class="keyword">else</span> <span class="keyword">if</span>(colorIndex&gt;=<span class="number">768</span>&amp;&amp;colorIndex&lt;=<span class="number">1023</span>)&#123;</span><br><span class="line">        ledG=colorIndex<span class="number">-768</span>;</span><br><span class="line">        <span class="built_in">anologWrite</span>(gLedPin,ledG);</span><br><span class="line">    &#125;<span class="keyword">else</span> <span class="keyword">if</span>(colorIndex&gt;=<span class="number">1024</span>&amp;&amp;colorIndex&lt;=<span class="number">1279</span>)&#123;</span><br><span class="line">        ledB=<span class="number">1279</span>-colorIndex;</span><br><span class="line">        <span class="built_in">anologWrite</span>(bLedPin,ledB);</span><br><span class="line">    &#125;<span class="keyword">else</span> <span class="keyword">if</span>(colorIndex&gt;=<span class="number">1280</span>&amp;&amp;colorIndex&lt;=<span class="number">1535</span>)&#123;</span><br><span class="line">        ledB=colorIndex<span class="number">-1280</span>;</span><br><span class="line">        <span class="built_in">anologWrite</span>(bLedPin,ledB);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="built_in">delay</span>(colorChangeDelay);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">fadeOn</span><span class="params">()</span></span>&#123;</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;&quot;</span>);</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;Fade On&quot;</span>);</span><br><span class="line">    <span class="type">int</span> i;</span><br><span class="line">    <span class="keyword">while</span>(i&lt;<span class="number">255</span>)&#123;</span><br><span class="line">        i++;</span><br><span class="line">        ledR++;</span><br><span class="line">        ledG++;</span><br><span class="line">        ledB++;</span><br><span class="line">        <span class="built_in">anologWrite</span>(rLedPin,ledR);</span><br><span class="line">        <span class="built_in">anologWrite</span>(gLedPin,ledG);</span><br><span class="line">        <span class="built_in">anologWrite</span>(bLedPin,ledB);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">fadeOff</span><span class="params">()</span></span>&#123;</span><br><span class="line">    <span class="keyword">while</span>(ledR&gt;<span class="number">0</span>)&#123;</span><br><span class="line">        ledR--;</span><br><span class="line">        <span class="built_in">anologWrite</span>(rLedPin,ledR);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">while</span>(ledG&gt;<span class="number">0</span>)&#123;</span><br><span class="line">        ledG--;</span><br><span class="line">        <span class="built_in">anologWrite</span>(gLedPin,ledG);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">while</span>(ledB&gt;<span class="number">0</span>)&#123;</span><br><span class="line">        ledB--;</span><br><span class="line">        <span class="built_in">anologWrite</span>(bLedPin,ledB);</span><br><span class="line">    &#125;    </span><br><span class="line">    colorIndex=<span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>心得：</p>
+<p>变量的声明其实可以更加详细一点，可以使用<code>完整的英文</code>来表示，而不是只使用单词的开头字母。因为在真正写代码的过程中，变量其实大多不是自己拼出来，而是直接复制粘贴，而在此时，准确知道变量的含义并复制来使用尤为重要。所以<code>不要忌讳变量名过长</code>，<code>能快速识别并且能拿来使用是更重要的</code>。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>Arduino</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>🚗造轮子—MeArm</title>
     <url>/2022/03/03/%E9%80%A0%E8%BD%AE%E5%AD%90%E2%80%94MeArm/</url>
-    <content><![CDATA[<p>最近，开始接触Arduino平台，我认为造轮子的是提高代码能力的最有效的方式。</p>
+    <content><![CDATA[<p>最近，开始接触<code>Arduino</code>平台，我认为<code>造轮子</code>的是提高代码能力的最有效的方式。</p>
 <blockquote>
 <p>造轮子：简明来说就是重新实现已有的功能，以达到更高效、更稳定等的目的</p>
 </blockquote>
