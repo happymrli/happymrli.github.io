@@ -168,10 +168,7 @@
   <entry>
     <title>🚗造轮子—Flash&amp;SRAM优化</title>
     <url>/2022/03/09/%E9%80%A0%E8%BD%AE%E5%AD%90%E2%80%94Flash%E4%BC%98%E5%8C%96%E4%BB%A3%E7%A0%81/</url>
-    <content><![CDATA[<table><tr><td bgcolor="PowderBlue">🚩优化FLASH内存很有效的方式之一：删除无用代码
-
-
-</td></tr></table>
+    <content><![CDATA[<table><tr><td bgcolor="PowderBlue">🚩优化FLASH内存很有效的方式之一：删除无用代码</td></tr></table>
 
 <p>首先来看一组Arduino<code>内存占用情况</code>的对比：</p>
 <blockquote>
